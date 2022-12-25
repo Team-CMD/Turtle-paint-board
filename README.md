@@ -15,3 +15,5 @@
 - 프로젝트 유형: </br>
   개인프로젝트</br>
   (진행자 깃허브 링크: https://github.com/Zaixian5)</br>
+- 기술스택:</br>
+  <img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=white">
