@@ -15,5 +15,4 @@
 - 프로젝트 진행 기간: </br>
   2022년 하반기
 - 프로젝트 유형: </br>
-  개인프로젝트</br>
-  (진행자 깃허브 링크: https://github.com/Zaixian5)</br>
+  개인프로젝트(진행자 깃허브 링크: https://github.com/Zaixian5)
