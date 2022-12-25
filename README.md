@@ -13,7 +13,7 @@
 - 기술스택:</br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 - 프로젝트 진행 기간: </br>
-  2022.11.19 ~ 2022.12.26
+  2022년 하반기
 - 프로젝트 유형: </br>
   개인프로젝트</br>
   (진행자 깃허브 링크: https://github.com/Zaixian5)</br>
